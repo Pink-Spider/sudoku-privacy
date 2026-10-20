@@ -1,5 +1,7 @@
 # sudoku-privacy
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-222222?logo=githubpages&logoColor=white)](https://pink-spider.github.io/sudoku-privacy/)
+
 Privacy policy for **Sudoku Daily** (`io.pinkspider.sudoku`), served via GitHub
 Pages at <https://pink-spider.github.io/sudoku-privacy/>.
 
